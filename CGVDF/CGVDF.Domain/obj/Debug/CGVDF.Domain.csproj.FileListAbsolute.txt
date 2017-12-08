@@ -1,0 +1,6 @@
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Domain\bin\Debug\CGVDF.Domain.dll
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Domain\bin\Debug\CGVDF.Domain.pdb
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Domain\obj\Debug\CGVDF.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Domain\obj\Debug\CGVDF.Domain.dll
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Domain\obj\Debug\CGVDF.Domain.pdb
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Domain\obj\Debug\CGVDF.Domain.csprojResolveAssemblyReference.cache

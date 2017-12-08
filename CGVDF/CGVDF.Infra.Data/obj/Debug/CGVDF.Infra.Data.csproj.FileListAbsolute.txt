@@ -1,0 +1,13 @@
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Infra.Data\bin\Debug\CGVDF.Infra.Data.dll.config
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Infra.Data\bin\Debug\CGVDF.Infra.Data.dll
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Infra.Data\bin\Debug\CGVDF.Infra.Data.pdb
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Infra.Data\bin\Debug\CGVDF.Domain.dll
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Infra.Data\bin\Debug\CGVDF.Domain.pdb
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Infra.Data\obj\Debug\CGVDF.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Infra.Data\obj\Debug\CGVDF.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Infra.Data\obj\Debug\CGVDF.Infra.Data.dll
+C:\Users\Stefanini\source\repos\CGVDF\CGVDF.Infra.Data\obj\Debug\CGVDF.Infra.Data.pdb
